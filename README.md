@@ -3,16 +3,16 @@
     <img alt="Made With Unity" src="https://img.shields.io/badge/made%20with-Unity-57b9d3.svg?logo=Unity">
   </a>
   <a>
-    <img alt="License" src="https://img.shields.io/github/license/wolf-package/remote-config-manager-unity?logo=github">
+    <img alt="License" src="https://img.shields.io/github/license/unity-package/remote-config-manager-unity?logo=github">
   </a>
   <a>
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wolf-package/remote-config-manager-unity?logo=Mapbox&color=orange">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/unity-package/remote-config-manager-unity?logo=Mapbox&color=orange">
   </a>
   <a>
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/wolf-package/remote-config-manager-unity?logo=VirtualBox">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/unity-package/remote-config-manager-unity?logo=VirtualBox">
   </a>
   <a>
-    <img alt="Last Release" src="https://img.shields.io/github/v/release/wolf-package/remote-config-manager-unity?include_prereleases&logo=Dropbox&color=yellow">
+    <img alt="Last Release" src="https://img.shields.io/github/v/release/unity-package/remote-config-manager-unity?include_prereleases&logo=Dropbox&color=yellow">
   </a>
 </p>
 
@@ -24,15 +24,15 @@
 
 for version `1.0.2`
 ```csharp
-"com.wolf-org.remote-config":"https://github.com/wolf-org/remote-config-manager-unity.git#1.0.2",
+"com.wolf-org.remote-config":"https://github.com/unity-package/remote-config-manager-unity.git#1.0.2",
 ```
 dependency `extensions-unity-1.0.5`
 ```csharp
-"com.wolf-org.extensions":"https://github.com/wolf-org/extensions-unity.git#1.0.5",
+"com.wolf-org.extensions":"https://github.com/unity-package/extensions-unity.git#1.0.5",
 ```
 If you use [game-data-unity](https://github.com/wolf-package/game-data-unity), add the library below and define symbol `VIRTUESKY_DATA`
 ```csharp
-"com.wolf-org.game-data":"https://github.com/wolf-org/game-data-unity.git#1.0.2",
+"com.wolf-org.game-data":"https://github.com/unity-package/game-data-unity.git#1.0.2",
 ```
 
 ## Use
